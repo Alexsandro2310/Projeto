@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido por Alexsandro no ensino de tecnologias
 <br>
 
 <p align="center">
-  <img alt="Projeto Alex Dev" src=".github/Capa.jpg" width="100%">
+  <img alt="Projeto Alex Dev" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
